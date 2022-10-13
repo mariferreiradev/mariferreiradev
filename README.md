@@ -7,6 +7,7 @@ Desenvolvedora web que ama trabalhar com front-end, há um tempo descobri que mi
 <h2> 🚀 Habilidades </h2>
 <a href="https://www.github.com/mariferreiradev"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://www.github.com/mariferreiradev"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://www.github.com/mariferreiradev"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 
 <h2> 🌱 Estudando </h2>
 <a href="https://www.github.com/mariferreiradev"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
