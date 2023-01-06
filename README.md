@@ -7,7 +7,7 @@
   <h3> Nesse perfil habita uma desenvolvedora web apaixonada por front-end 💜 </h3>
 
   <p>
-    Certo dia resolvi me aventurar nesse mundo da programação e acabei descobrindo que minha vocação é transformarlinhas de código em soluções para os problemas da vida real!
+    Certo dia resolvi me aventurar nesse mundo da programação e acabei descobrindo que minha vocação é transformar linhas de código em soluções para os problemas da vida real!
   </p>
 
 <br>
