@@ -1,6 +1,6 @@
 ![gif-mari](https://user-images.githubusercontent.com/109253236/210887988-e547e5cf-36e8-4a36-afcb-152c608de526.gif)
 
-</br>
+<br>
 
 <h1 align="center" > Hello, Devs!!</h1> 
 <div align="center"> 
@@ -9,13 +9,13 @@
   <p>
     Certo dia resolvi me aventurar nesse mundo da programação e acabei descobrindo que minha vocação é transformarlinhas de código em soluções para os problemas da vida real!
   </p>
-  
-</br>
+
+<br>
 
 [![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariferreiradev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-</br>
+<br>
 <h2 align="center" > 🚀 Habilidades </h2>
 
 <div align="center">
@@ -29,7 +29,7 @@
     <a href="https://www.github.com/mariferreiradev"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://www.github.com/mariferreiradev"> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></a>
   </div>
-</br>
+<br>
   <div>
     <h3> Meus projetos favoritos </h3>
   </div>
@@ -50,11 +50,18 @@
 
 </div>
 
-</br>
+<br>
 
-<h2> 😀 Conecte-se comigo </h2>
+<h2 align="center" > 💬 Conecte-se comigo </h2>
 
-Você pode entrar em contato comigo pelos canais abaixo.
+<p align="center">Você pode entrar em contato comigo pelos canais abaixo.</p>
 
+<div align="center">
 <a href="https://www.linkedin.com/in/mariferreiradev"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="mailto:mariferreira.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+<br>
+<br>
+<div align="center" >
+  <img src="https://user-images.githubusercontent.com/109253236/210910454-89d5ff92-9305-4bf8-8f09-91b9059e2dc1.gif" width="100px"/> 
+</div>
